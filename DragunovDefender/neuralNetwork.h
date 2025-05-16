@@ -1,3 +1,9 @@
+/****************************************************
+*
+* Code developed by Nikhil Tom Jose (Ryuou02) 
+* Part of DragunovDefender
+*
+*****************************************************/
 #pragma once
 #include"perceptron.h"
 #include<array>
